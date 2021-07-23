@@ -2,4 +2,4 @@
 
 This code produces a heatmap of the main risks faced by farmers accounting for size. 
 
-(https://github.com/mariarrt94/heatmap-devmicro/Heatmap risks.jpg)
+![plot](https://github.com/mariarrt94/heatmap-devmicro/Heatmap risks.jpg)
