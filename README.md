@@ -1,3 +1,5 @@
-# Shocks in farms
+# Small farms and income fluctuations
 
-Heatmaps comparing frecuency of shocks experienced by farms with the size of the farm
+This code produces a heatmap of the main risks faced by farmers accounting for size. 
+
+(https://github.com/mariarrt94/heatmap-devmicro/Heatmap risks.jpg)
